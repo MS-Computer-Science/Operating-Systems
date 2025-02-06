@@ -1,0 +1,1 @@
+* IPC (Inter-Process Communication): IPC refers to mechanisms that allow processes (programs) to communicate and share data with each other. Pipes `|` are one such mechanism.
